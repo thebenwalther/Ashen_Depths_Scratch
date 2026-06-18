@@ -33,8 +33,8 @@ No external packages required.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ashen-depths.git
-cd ashen-depths
+git clone https://github.com/your-username/ashen-depths-scratch.git
+cd ashen-depths-scratch
 python3 main.py
 ```
 
@@ -96,7 +96,7 @@ Walk into an enemy to attack. Enemies attack back on their turn. Damage is based
 ## Project Structure
 
 ```
-ashen-depths/
+ashen-depths-scratch/
 ├── main.py                  # Entry point
 └── ashen_depths/
     ├── constants.py         # Tuning constants and color pair IDs
