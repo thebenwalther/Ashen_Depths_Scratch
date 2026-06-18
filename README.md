@@ -33,7 +33,7 @@ No external packages required.
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/ashen-depths-scratch.git
+git clone https://github.com/thebenwalther/ashen-depths-scratch.git
 cd ashen-depths-scratch
 python3 main.py
 ```
